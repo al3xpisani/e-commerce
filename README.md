@@ -1,3 +1,53 @@
+Site published at: 
+
+https://commerce-al3x.netlify.app/ 
+
+ 
+
+======================================   
+
+ 
+
+npx create-react-app ./ 
+
+ 
+
+  npm install @material-ui/core @material-ui/icons @chec/commerce.js @stripe/react-stripe-js @stripe/stripe-js 
+
+ 
+
+ npm install react-router-dom react-hook-form 
+
+ 
+
+====================================== 
+
+ 
+
+Im using the library commercejs just to emulate the back-end operations to raise actions like persist data, query products,ec... 
+
+ 
+
+https://commercejs.com/ 
+
+ 
+
+ 
+
+========================================= 
+
+ 
+
+(React hook forms) 
+
+ 
+
+https://react-hook-form.com/ 
+
+ 
+
+========================================= 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
